@@ -6,7 +6,7 @@ Untuk verifikasi login seperti aplikasi Gojek, Dana, dll.
 
 ## Installation
 ```
-$ git clone https://github.com/rzthdev/otpsms && cd otpsms
+$ git clone https://github.com/rzthdev/otpsms
 $ cd otpsms
 ```
 ## Usage
